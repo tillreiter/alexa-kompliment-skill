@@ -1,7 +1,7 @@
 {
-  "name": "alexa-starter-kit",
+  "name": "alexa-kompliment-skill",
   "version": "0.0.1",
-  "description": "A bare bones app to fill in with your ingenious skill",
+  "description": "An echo skill that compliments you every time you ask for a compliment.",
   "main": "index.js",
   "scripts": {
     "test": "mocha ./tests/*.tests.js",
@@ -26,8 +26,8 @@
     "echo",
     "voice"
   ],
-  "author": "Craig Bilner",
-  "license": "Apache-2.0",
+  "author": "Till Reiter",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/craigbilner/alexa-starter-kit/issues"
   },
